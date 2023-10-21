@@ -1,8 +1,8 @@
 
 
 
-Ways to Run:
------------------
+Steps to run the code:
+----------------------
 
 1) Go to build folder and relaunch.py inside the build directory. 
    * This will create subdirectories with each parameter values inscribed in the directory. E.g. J_H_0.0 would imply The J_H coupling with value 0.0.
